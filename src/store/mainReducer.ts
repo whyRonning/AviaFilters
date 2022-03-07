@@ -1,4 +1,4 @@
-import {data as flightData} from  "./flights"
+import {data as flightData} from "./flights"
 import {actionsType} from "./store";
 export type flightsData={
     id:string
